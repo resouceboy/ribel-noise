@@ -1,0 +1,6 @@
+Ribel Noise Font
+Copyright © 2026 Resource Boy
+
+Version 1.000 - 2026
+- Initial release
+- Regular weight
